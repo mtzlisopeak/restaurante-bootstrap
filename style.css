@@ -69,6 +69,14 @@ header.navbar {
     background-color: #a74631;
 }
 
+label.error {
+    font-weight: bold;
+}
+
+input, textarea {
+    transition: 5.5s ease;
+}
+
 @media screen and (max-width: 767px){
 
     .carousel-item img {
